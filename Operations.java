@@ -1,4 +1,4 @@
-package MavenCalculator.Sample;
+package MavenSample.Calculator;
 
 public abstract class Operations {
 	public abstract void add(double a , double b) ;
